@@ -1,24 +1,23 @@
--------------------------------------------------------------
-|	Aufgaben-UNI											|
--------------------------------------------------------------
+# Aufgaben-UNI
 
 Aufgaben des DHBW-Kurses Programmierung II
 
--------------------------------------------------------------
-|	Ordnerstruktur											|
--------------------------------------------------------------
-/
--/aufgaben-blatt<n>
---/aufgabe<n>
----/<source files or docs>
---/aufgabe<n>
----/<source files or docs>
--/aufaben-blatt<n>
-[...]
+# Ordnerstruktur
 
--------------------------------------------------------------
-|	Committing												|
--------------------------------------------------------------
+```
+/
+  /aufgabe-blatt[...]
+    /aufgabe[...]
+      /source files or docs
+    /aufgabe[...]
+      /source files or docs
+    /[...]
+  /aufgabe-blatt[...]
+    /[...]
+```
+
+# Committing
+
 Bitte nur komplette Aufgaben in richtiger Ordnerstruktur committen, am besten
 mit kurzen Kommentaren, wenn irgendwelche Stellen besonders kompliziert sind.
 
