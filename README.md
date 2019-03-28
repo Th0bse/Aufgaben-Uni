@@ -26,4 +26,5 @@ man beim Lernen nicht verwirrt wird.
 
 Für Commit-Rechte auf Whatsapp oder per Mail <rekowski.thorben@gmail.com> 
 oder <thorben.von.rekowski@sap.com> kurz melden. Whatsapp und private Mail
-gehen tendenziell schneller.
+gehen tendenziell schneller. Es wird dann automatisch eine Mail mit einem
+Bestätigungslink geschickt.
