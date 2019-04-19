@@ -1,11 +1,11 @@
 # Aufgaben-UNI
 
-Aufgaben des DHBW-Kurses Programmierung II
+Aufgaben der Programmier-Vorlesungen der DHBW
 
 # Ordnerstruktur
 
 ```
-/
+/kursname
   /aufgabe-blatt[...]
     /aufgabe[...]
       /source files or docs
@@ -14,6 +14,8 @@ Aufgaben des DHBW-Kurses Programmierung II
     /[...]
   /aufgabe-blatt[...]
     /[...]
+/kursname
+  /[...]
 ```
 
 # Committing
