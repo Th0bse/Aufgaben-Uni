@@ -1,6 +1,6 @@
 # Aufgaben-UNI
 
-Aufgaben der Programmier-Vorlesungen der DHBW
+Aufgaben der Programmier-Vorlesungen der DHBW.
 
 # Ordnerstruktur
 
